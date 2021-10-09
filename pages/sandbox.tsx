@@ -17,7 +17,7 @@ const Sandbox: NextPage = () => {
           <Heading>Sandbox</Heading>
         </Box>
         <Container py={8} maxW="container.lg">
-          <Accordion>
+          <Accordion title="あこーでぃおん">
             <p>hogehoge</p>
             <p>hogehoge</p>
             <p>hogehoge</p>
